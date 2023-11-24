@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyKlamben</string>
+    <string name="price"> Rp. %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="back">Kembali</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp. %d</string>
+    <string name="menu_about">My Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="share_message">Hey, Aku telah membeli %1$d barang di Klamben App dengan total harga Rp. %2$d . Ini menarik bukan?</string>
+    <string name="total_order">Total pesanan : Rp. %d</string>
+    <string name="klamben_app">Klamben App</string>
+    <string name="profile_name">Muhadzdzib Dzaky Zaidan</string>
+    <string name="profile_email">muhadzdzakyzaidan@gmail.com</string>
+    <string name="search_hint">Cari pakaian</string>
+    <string name="our_catalog">Katalog</string>
+</resources>
